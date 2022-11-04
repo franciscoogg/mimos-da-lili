@@ -6,3 +6,7 @@ strong#logotopo {
     text-align: center;
     color: cadetblue;
 }
+
+body {
+    background-color: rgba(185, 185, 185, 0.808);
+}
