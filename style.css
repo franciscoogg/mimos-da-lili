@@ -11,14 +11,19 @@ strong#logotopo {
     color: rgb(25, 165, 170);
 }
 
-body {
-
-    background-color: rgb(185, 185, 185);
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
 }
 
-ul#menu {
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
     position: absolute;
+    top: 110px;
     right: 0;
-    left: 0;
-    top: 0;
 }
