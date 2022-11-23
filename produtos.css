@@ -22,7 +22,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #00ccff;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -34,4 +34,8 @@ img#produto01 {
 
 img#produto02 {
     width: 150px;
+}
+
+nav a:hover {
+    color:#BBBBBB
 }
