@@ -30,10 +30,14 @@ nav {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #00ccff;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+nav a:hover {
+    color:#BBBBBB
 }
 
 .logo-cabecalho {
