@@ -38,6 +38,7 @@ nav a {
 
 nav a:hover {
     color:#BBBBBB
+    text-decoration: underline;
 }
 
 .logo-cabecalho {

@@ -38,4 +38,5 @@ img#produto02 {
 
 nav a:hover {
     color:#BBBBBB
+    text-decoration: underline;
 }
